@@ -1,2 +1,2 @@
 # ARENA_Coursework_practice
-A collection of exercises from the ARENA course that teaches, Fundamentals, Transformers Interpretability,  RL, and LLM Evaluations
+This repo contains notebooks which I used to practice the concepts mentioned in the ARENA course [click here to access the course](https://arena-chapter0-fundamentals.streamlit.app/)
